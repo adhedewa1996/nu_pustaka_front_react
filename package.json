@@ -1,0 +1,59 @@
+{
+  "name": "my-admin-rupustaka-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@amcharts/amcharts4": "^4.8.4",
+    "@amcharts/amcharts4-geodata": "^4.1.10",
+    "@material-ui/core": "^4.9.0",
+    "@material-ui/icons": "^4.5.1",
+    "@material-ui/lab": "^4.0.0-alpha.40",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.4.0",
+    "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.19.2",
+    "babel-polyfill": "^6.26.0",
+    "bootstrap": "^4.4.1",
+    "draft-js": "^0.11.4",
+    "jquery": "^3.4.1",
+    "material-table": "^1.56.1",
+    "mdbreact": "^4.25.1",
+    "notistack": "^0.9.7",
+    "react": "^16.12.0",
+    "react-bootstrap": "^1.0.0-beta.16",
+    "react-bootstrap-sweetalert": "^5.1.9",
+    "react-ckeditor-component": "^1.1.0",
+    "react-data-table-component": "^6.2.3",
+    "react-dom": "^16.12.0",
+    "react-draft-wysiwyg": "^1.14.4",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.3.0",
+    "react-summernote": "^2.0.0",
+    "react-swipeable-views": "^0.13.6",
+    "react-treeview": "^0.4.7",
+    "reactstrap": "^8.4.0",
+    "styled-components": "^5.0.0",
+    "sweetalert": "^2.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
